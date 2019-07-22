@@ -69,13 +69,13 @@
   </url>
   
   <url>
-    <loc>/tags/site/</loc>
+    <loc>/categories/site/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/site/</loc>
+    <loc>/tags/site/</loc>
     <lastmod>2019-07-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
