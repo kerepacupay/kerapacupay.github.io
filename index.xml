@@ -6,10 +6,20 @@
     <description>Recent content on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bienvenidos a Kerepacupay</title>
+      <link>/2019/07/22/bienvenidos-a-kerepacupay/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/22/bienvenidos-a-kerepacupay/</guid>
+      <description> Bienvenidos a Kerepacupay Este sitio web representa la conclusión del esfuerzo de un proyecto de larga data, esperamos que sea de su total agrado y estaremos publicando información útil para usted.
+ </description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>

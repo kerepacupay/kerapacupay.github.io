@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site on A Hugo website</title>
+    <link>/tags/site/</link>
+    <description>Recent content in Site on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/site/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bienvenidos a Kerepacupay</title>
+      <link>/2019/07/22/bienvenidos-a-kerepacupay/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/22/bienvenidos-a-kerepacupay/</guid>
+      <description> Bienvenidos a Kerepacupay Este sitio web representa la conclusión del esfuerzo de un proyecto de larga data, esperamos que sea de su total agrado y estaremos publicando información útil para usted.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
